@@ -1,6 +1,6 @@
 <?php
     function saludar(){
-        echo "Hola, bienvenido";
+        echo "Hola, ";
     }
 
     saludar();
@@ -9,7 +9,7 @@
         echo "Bienvendo " . $nombre;
     }
 
-    saludarUsuario("Fontecha");
+    saludarUsuario("Ríos ");
 
     
     function sumar($a, $b){
